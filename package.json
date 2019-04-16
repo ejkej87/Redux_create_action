@@ -1,0 +1,23 @@
+{
+  "name": "Redux_create_action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejkej87/Redux_create_action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejkej87/Redux_create_action/issues"
+  },
+  "homepage": "https://github.com/ejkej87/Redux_create_action#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
